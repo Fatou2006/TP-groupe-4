@@ -27,5 +27,6 @@ float multiplication(float a,float b){
 // methode main par fatou
 main(){
     printf("saisir les entiers à additionner");
+    scanf("%f")
     
 }
