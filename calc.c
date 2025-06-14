@@ -5,6 +5,9 @@
 
 
 //Fonction soustraction par Fatou
+float soustraction(float a, float b) {
+    return a - b;
+}
 
 
 //fonction division par Alix 
