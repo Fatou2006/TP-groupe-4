@@ -14,3 +14,5 @@
 
 
 // methode main par fatou
+main(){
+}
