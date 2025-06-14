@@ -21,5 +21,5 @@ float multiplication(float a,float b){
 
 // methode main par fatou
 main(){
-    
+    printf("je parviens a modifier, pourquoi pas les autres ?");
 }
